@@ -1,0 +1,14 @@
+public class calculator {
+    public static void main(String[]args) 
+        
+    {
+        
+        int num1=2;
+        int num2=3;
+   
+           System.out.println( Math.pow(num1,num2) );
+           System.out.println(Math.sqrt(num1));
+           
+    
+}
+}
